@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="TestList">
+        <item>hello</item>
+        <item>hello1</item>
+        <item>hello2</item>
+        <item>hello3</item>
+    </array>
+    <array name="List1">
+        <item>hye</item>
+        <item>hye1</item>
+        <item>hye2</item>
+        <item>hye3</item>
+    </array>
+    <array name="List2">
+        <item>bye</item>
+        <item>bye1</item>
+        <item>bye2</item>
+        <item>bye3</item>
+    </array>
+</resources>
