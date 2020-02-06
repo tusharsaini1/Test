@@ -20,6 +20,13 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         recyclerView.setAdapter(testAdapter);
 
+        //hello
+        //hello
+        //hello
+        //hello
+        //hello
+
+
 
     }
 }
