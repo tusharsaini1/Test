@@ -16,15 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.recyclerView);
 
-        TestAdapter testAdapter = new TestAdapter(getResources().getStringArray(R.array.TestList));
-        recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
-        recyclerView.setAdapter(testAdapter);
 
-        //hello
-        //hello
-        //hello
-        //hello
-        //hello
 
 
 
